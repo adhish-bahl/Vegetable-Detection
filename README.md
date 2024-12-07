@@ -1,4 +1,5 @@
 
+# VisionHack 2024 
 # DeepFriedNeurons
 
 ## Overview
@@ -7,7 +8,7 @@ DeepFriedNeurons is a project utilizing the YOLO (You Only Look Once) model for 
 
 ## Developers
 
-- **Adhish Bahl** (2347203)
+- **ADHISH BAHL** (2347203)
 - **PAVITHARANI G P** (2347244)
 
 ## Requirements
@@ -54,10 +55,3 @@ pip install supervision[assets]==0.24.0
 2. Follow the cells step-by-step to install dependencies, load the model, and perform detection tasks.
 3. Modify the input paths or parameters as needed to analyze your dataset.
 
-## Contributing
-
-If you'd like to contribute, feel free to submit a pull request or report issues. Please ensure compatibility with the existing library versions.
-
----
-
-Happy coding!
